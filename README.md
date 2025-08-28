@@ -21,10 +21,11 @@ For me, design is not just about features in CAD/CAM/CAE tools — it's an attit
 
 <h2>🎯 Technical Interests</h2>
 
-- ⚙️ Mechanical Product Design and Development  
+- ⚙️ Mechanical Product Design 
 - ✈️ Aircraft and UAV Design  
 - 🧰 CAD/CAE Tools (SolidWorks, CATIA V5, ABAQUS)  
-- 🧵 Composite Materials and Analysis 
+- 🧵 Composite Materials and Fatigue Analysis
+- 
 
 ---
 
@@ -32,20 +33,18 @@ For me, design is not just about features in CAD/CAM/CAE tools — it's an attit
 
 - SolidWorks Advanced and Simulation
 - XFLR5 (Airfoil and Stability Analysis)
-- Excel advance and VBA
+- Excel Advance and VBA
 - MATLAB
 
 ---
-
+<!--
 <h2>📫 Let's Connect</h2>
 
 [<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/vrushal-modake-486a2b206/  
-[github]: https://github.com/YOUR-USERNAME
 
 <!--
 **vrushal123/vrushal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
