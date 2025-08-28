@@ -38,8 +38,8 @@ For me, design is not just about features in CAD/CAM/CAE tools, it's an attitude
 
 ---
 <!--
-- 🏆 Proud participant in product design challenges *(Update if you’ve won any!)*  --> 
-- 🛠️ **Tools & Skills**: SolidWorks | CATIA V5 | ABAQUS | MATLAB | Excel-VBA 
+- 🏆 Proud participant in product design challenges *(Update if you’ve won any!)*  
+- 🛠️ **Tools & Skills**: SolidWorks | CATIA V5 | ABAQUS | MATLAB | Excel-VBA --> 
 - 📬 **How to reach me**: [📩 Mail](mailto:modake21@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/vrushal-modake-486a2b206/)  
 - ⚡ **Fun Fact**: I enjoy visualizing how things fail more than watching how they work 😄  
 
