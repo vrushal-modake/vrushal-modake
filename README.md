@@ -10,7 +10,7 @@ For me, design is not just about features in CAD/CAM/CAE tools, it's an attitude
 <h2>🛠️ Projects & Work</h2>
 
 - <b>Robotic Systems & Mechanism Design</b>  *(Ongoing)*
-  - 🐙 [**Multi-Joint “Octopus” Robotic Arm**] () 
+  - 🐙 [**Multi-Joint “Octopus” Robotic Arm**](https://github.com/vrushal-modake/Robotic-Systems-Mechanism-Design) 
     - Designed a multi-joint robotic arm for full 3D workspace with defined joint layout and linkage geometry.  
     - Analyzed lead screw drive and calculated rotation-to-lead conversion. 
 
