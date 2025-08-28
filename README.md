@@ -9,13 +9,13 @@ For me, design is not just about features in CAD/CAM/CAE tools, it's an attitude
 
 <h2>🛠️ Projects & Work</h2>
 
-- <b>Robotic Systems & Mechanism Design</b>  
+- <b>Robotic Systems & Mechanism Design</b>  *(Ongoing)*
   - 🐙 **Multi-Joint “Octopus” Robotic Arm**  
     - Designed a multi-joint robotic arm for full 3D workspace with defined joint layout and linkage geometry.  
-    - Analyzed lead screw drive and calculated rotation-to-lead conversion. *(Ongoing)*
+    - Analyzed lead screw drive and calculated rotation-to-lead conversion. 
 
 - <b>Composite Structures & Simulation</b>  
-  - 🧱 **Carbon-Fiber/ABS Sandwich Beam** *(SAMPPE 2025)*  
+  - 🧱 **Carbon-Fiber/ABS Sandwich Beam** 
     - Designed a lightweight carbon-fiber/ABS sandwich beam for a 500-lb design load and 1600-lb ultimate load.  
     - Modeled UD-CFRP skins + ABS core in ABAQUS for laminate/core sizing and safety margins.  
     - Built and tested a 3D-printed prototype with load-matched infill, bonded to CFRP face sheets.
