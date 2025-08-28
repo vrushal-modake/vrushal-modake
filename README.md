@@ -2,7 +2,7 @@
 <h3>Mechanical Engineer | Product Designer</h3>
 
 <p>
-For me, design is not just about features in CAD/CAM/CAE tools — it's an attitude: identifying problems and crafting effective, efficient solutions.
+For me, design is not just about features in CAD/CAM/CAE tools, it's an attitude of identifying problems and crafting effective, efficient solutions.
 </p>
 
 ---
