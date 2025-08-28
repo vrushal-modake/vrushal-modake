@@ -15,7 +15,7 @@ For me, design is not just about features in CAD/CAM/CAE tools, it's an attitude
     - Analyzed lead screw drive and calculated rotation-to-lead conversion. 
 
 - <b>Composite Structures & Simulation</b>  
-  - 🧱 **Carbon-Fiber/ABS Sandwich Beam** 
+  - 🧱 [**Carbon-Fiber/ABS Sandwich Beam**](https://github.com/vrushal-modake/Carbon-Fiber-ABS-Sandwich-Beam)
     - Designed a lightweight carbon-fiber/ABS sandwich beam for a 500-lb design load and 1600-lb ultimate load.  
     - Modeled UD-CFRP skins + ABS core in ABAQUS for laminate/core sizing and safety margins.  
     - Built and tested a 3D-printed prototype with load-matched infill, bonded to CFRP face sheets.
