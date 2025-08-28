@@ -9,13 +9,25 @@ For me, design is not just about features in CAD/CAM/CAE tools, it's an attitude
 
 <h2>🛠️ Projects & Work</h2>
 
-- <b>Product Design Portfolio</b>  
-  - [CAD/CAE Projects Showcase](https://github.com/YOUR-USERNAME/CAD-Projects)
-  - [Human-Centered Product Redesign Case Study](https://github.com/YOUR-USERNAME/Product-Redesign)
+- <b>Robotic Systems & Mechanism Design</b>  
+  - 🐙 **Multi-Joint “Octopus” Robotic Arm**  
+    - Designed a multi-joint robotic arm for full 3D workspace with defined joint layout and linkage geometry.  
+    - Analyzed lead screw drive and calculated rotation-to-lead conversion. *(Ongoing)*
 
-- <b>Mechanical Engineering Projects</b>  
-  - [Automation Fixture Design](https://github.com/YOUR-USERNAME/Automation-Fixture)
-  - [Thermal Stress Analysis in Ansys](https://github.com/YOUR-USERNAME/Thermal-Analysis)
+- <b>Composite Structures & Simulation</b>  
+  - 🧱 **Carbon-Fiber/ABS Sandwich Beam** *(SAMPPE 2025)*  
+    - Designed a lightweight carbon-fiber/ABS sandwich beam for a 500-lb design load and 1600-lb ultimate load.  
+    - Modeled UD-CFRP skins + ABS core in ABAQUS for laminate/core sizing and safety margins.  
+    - Built and tested a 3D-printed prototype with load-matched infill, bonded to CFRP face sheets.
+
+- <b>Aircraft Design Projects</b>  
+  - ✈️ **Flying-Wing Aircraft**  
+    - Designed variable cant-angle wings to enhance low-speed stability and cruise efficiency.  
+    - Simulated dynamic-stability effects and mitigated instabilities via elevon trim.  
+
+  - 🛩️ **Tailless Aircraft Prototype**  
+    - Led airfoil selection and wing design with ~30% washout to reduce tip-induced drag.  
+    - Simulated control surfaces in XFLR5 and optimized for aerodynamic performance and stability.
 
 ---
 
