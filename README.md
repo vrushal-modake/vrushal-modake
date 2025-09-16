@@ -21,7 +21,7 @@ For me, design is not just about features in CAD/CAM/CAE tools, it's an attitude
     - Built and tested a 3D-printed prototype with load-matched infill, bonded to CFRP face sheets.
 
 - <b>Aircraft Design Projects</b>  
-  - ✈️ [**Aerodynamic-and-Stability-Analysis-of-the-Flying-Wing**](https://github.com/vrushal-modake/Aerodynamic-and-Stability-Analysis-of-the-Flying-Wing)
+  - ✈️ [**Aerodynamic and Stability Analysis of the Flying Wing**](https://github.com/vrushal-modake/Aerodynamic-and-Stability-Analysis-of-the-Flying-Wing)
     - Designed variable cant-angle wings to enhance low-speed stability and cruise efficiency.  
     - Simulated dynamic-stability effects and mitigated instabilities via elevon trim.  
 
