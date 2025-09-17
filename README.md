@@ -37,7 +37,6 @@ For me, design is not just about features in CAD/CAM/CAE tools, it's an attitude
 - ✈️ Aircraft and UAV Design  
 - 🧰 CAD/CAE Tools (SolidWorks, CATIA V5, ABAQUS)  
 - 🧵 Composite Materials and Fatigue Analysis
-- 
 
 ---
 
@@ -47,6 +46,7 @@ For me, design is not just about features in CAD/CAM/CAE tools, it's an attitude
 - XFLR5 (Airfoil and Stability Analysis)
 - Excel Advance and VBA
 - MATLAB
+- ABAQUS
 
 ---
 <!--
