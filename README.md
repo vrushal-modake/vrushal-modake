@@ -35,20 +35,25 @@ For me, design is not just about features in CAD/CAM/CAE tools, it's an attitude
 
 - ⚙️ Mechanical Product Design 
 - ✈️ Aircraft and UAV Design
-- 🧰 **CAD Tools:** SolidWorks, Autodesk Inventor, Autodesk Fusion 360, CATIA V5, Siemens NX, PTC Creo  
-- 📊 **CAE & FEA Tools:** ANSYS, ABAQUS, SolidWorks Simulation, Inventor Simulation, Fusion 360 Simulation  
-- 🧵 Composite Materials and Fatigue Analysis
+- 🧵 Composite Materials and Manufacturing  
+- 🔍 Material Failure Analysis 
+---
+## 🛠️ Skills  
 
+- **CAD Tools:** SolidWorks, Autodesk Inventor, Autodesk Fusion 360, CATIA V5, Siemens NX, PTC Creo  
+- **CAE & FEA Tools:** ANSYS, ABAQUS, SolidWorks Simulation, Inventor Simulation, Fusion 360 Simulation  
+- **Other Tools:** MATLAB, PTC Windchill, XFLR5, Excel  
+- **Engineering Knowledge:** GD&T, FEA, DFM, DFMEA, Prototyping, 3D Printing, Composite Materials  
+- **Programming & Automation:** Excel-VBA, CATIA-VBA, MATLAB  
 ---
 
 <h2>📚 Self-Learning</h2>
 
-- SolidWorks Advanced and Simulation
+- CAD & CAE Tools
 - XFLR5 (Airfoil and Stability Analysis)
 - Excel Advance and VBA
 - MATLAB
-- ABAQUS
-
+  
 ---
 <!--
 - 🏆 Proud participant in product design challenges *(Update if you’ve won any!)*  
