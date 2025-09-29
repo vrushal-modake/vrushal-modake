@@ -34,8 +34,9 @@ For me, design is not just about features in CAD/CAM/CAE tools, it's an attitude
 <h2>🎯 Technical Interests</h2>
 
 - ⚙️ Mechanical Product Design 
-- ✈️ Aircraft and UAV Design  
-- 🧰 CAD/CAE Tools (SolidWorks, CATIA V5, ABAQUS)  
+- ✈️ Aircraft and UAV Design
+- 🧰 **CAD Tools:** SolidWorks, Autodesk Inventor, Autodesk Fusion 360, CATIA V5, Siemens NX, PTC Creo  
+- 📊 **CAE & FEA Tools:** ANSYS, ABAQUS, SolidWorks Simulation, Inventor Simulation, Fusion 360 Simulation  
 - 🧵 Composite Materials and Fatigue Analysis
 
 ---
